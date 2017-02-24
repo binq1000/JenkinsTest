@@ -23,7 +23,7 @@ public class NumberGeneratorTest {
 	@Test
 	public void anotherError() {
 		System.out.println("Error throwing test");
-		Assert.assertFalse(false);
+		Assert.assertFalse(true);
 	}
 
 }
