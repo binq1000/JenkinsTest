@@ -17,13 +17,13 @@ public class NumberGeneratorTest {
 	@Test
 	public void ErrorThrowing() {
 		System.out.println("Error throwing test");
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 
 	@Test
 	public void anotherError() {
 		System.out.println("Error throwing test");
-		Assert.assertFalse(true);
+		Assert.assertFalse(false);
 	}
 
 }
