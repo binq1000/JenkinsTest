@@ -17,4 +17,9 @@ public class NumberGeneratorTests {
 		Assert.assertTrue(false);
 	}
 
+	@Test
+	public void anotherError() {
+		Assert.assertFalse(true);
+	}
+
 }
