@@ -5,7 +5,8 @@ import org.junit.Test;
 /**
  * Created by Nekkyou on 24-2-2017.
  */
-public class NumberGeneratorTests {
+
+public class NumberGeneratorTest {
 	@Test
 	public void TestNumberOne() {
 		System.out.println("Error throwing test");
