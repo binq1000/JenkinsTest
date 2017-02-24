@@ -12,4 +12,9 @@ public class NumberGeneratorTests {
 		Assert.assertTrue(ng.GetOne() == 1);
 	}
 
+	@Test
+	public void ErrorThrowing() {
+		Assert.assertTrue(false);
+	}
+
 }
